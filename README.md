@@ -39,3 +39,7 @@ The tests that can be executed in the project are:
 1.- Create a data array to execute the function that filters the courses by provider, by clicking on each one of them.
 
 2.- Create two arrays to test the functionality of creating the data table through the Material UI TableContainer component.
+
+
+
+Author: Walter David Guanoluisa Arciniega
