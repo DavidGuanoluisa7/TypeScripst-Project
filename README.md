@@ -25,8 +25,11 @@ functions from the helpers folder.
 
 ## Deploy project
 
-To deploy the project on github.com, you only have to upload the project to your github repository and deploy it using the 
+- To deploy the project on github.com, you only have to upload the project to your github repository and deploy it using the 
 GitHub Pages tool.
+
+- As the GitHub Pages tool sometimes does not work, netlify.com was use to deploy the project, in the following link you can
+see the project https://the-courses-proyect-frontend.netlify.app/
 
 
 ## Tests can be run
