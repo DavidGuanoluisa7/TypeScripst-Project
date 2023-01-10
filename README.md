@@ -32,7 +32,7 @@ GitHub Pages tool.
 see the project https://the-courses-proyect-frontend.netlify.app/
 
 
-## Tests can be run
+## Tests that can be run
 
 The tests that can be executed in the project are:
 
